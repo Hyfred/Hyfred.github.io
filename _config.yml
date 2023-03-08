@@ -85,9 +85,9 @@ author:
   bio              : "MSc Student at Imperial College London, majoring in AI and Machine Learning"
   location         : "Imperial College London"
   employer         :
-  pubmed           : "https://scholar.google.com/citations?user=WOv1apoAAAAJ&hl=zh-CN"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=WOv1apoAAAAJ&hl=zh-CN"
   email            : "hyliubdt@gmail.com"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
