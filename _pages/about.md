@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Hongye, a Master student at Imperial College London. I like outdoor activities and enjoy reading and collecting.
+I’m Hongye, a Master student at Imperial College London. I like outdoor activities and enjoy reading and collecting. My CV is available [here](https://hyfred.github.io/files/CV.pdf).
 
 My research interest
 ======
