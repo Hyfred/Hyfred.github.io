@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Artificial Intelligence at Imperial College London, where I am fortunate to be supervised by the esteemed [Prof. Bjoern Schuller](http://www.schuller.one/). Our research focuses on Multi-modal Learning, utilizing both speech and visual inputs to improve Emotion Recognition tasks.
+I am a master's student in Artificial Intelligence at Imperial College London, where I am fortunate to be supervised by the esteemed [Prof. Bjoern Schuller](http://www.schuller.one/). Our research focuses on Multi-modal Learning (speech and visual) to improve Emotion Recognition tasks.
 
-Before starting my Master's program, I earned a Bachelor's degree in Applied Statistics from Beijing Institute of Technology Zhuhai. This comprehensive program provided me with a strong foundation in the fundamental principles of statistics, which has been invaluable in my current studies.
+Before starting my Master's program, I earned a Bachelor's degree in Statistics from Beijing Institute of Technology Zhuhai. This comprehensive program provided me with a strong foundation in the fundamental principles of statistics, which has been invaluable in my current studies.
 
 And I am currently a visiting student at Beijing Institute of Technology, being supervised by [Prof. Kun Qian](https://eecsqian.com/). we are exploring adversarial attack and defence strategies for a robustness body sound classification system. I am enthusiastic about the opportunity to continue learning and applying my knowledge in this exciting field. My CV is available [here](https://hyfred.github.io/files/CV.pdf).
 
