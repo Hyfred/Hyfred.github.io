@@ -27,6 +27,7 @@ And I am currently a visiting student at Beijing Institute of Technology, being 
 ## My research interest
 *  Natural Language Processing
 *  Affective Computing
+*  Digital Health
 
 ## Selected Publications
 Mingzhou Xu, Longyue Wang, Derek F. Wong, Hongye Liu, Linfeng Song, Lidia S. Chao, Shuming Shi, and Zhaopeng 
