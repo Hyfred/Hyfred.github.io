@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HyLiu"
+title                    : "s Homepage"
 title_separator          : "'"
-name                     : &name "s Homepage"
+name                     : &name "Hyliu"
 description              : &description "MSc Student at Imperial College London"
 url                      : https://Hyfred.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
