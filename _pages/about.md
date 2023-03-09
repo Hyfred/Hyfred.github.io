@@ -15,13 +15,15 @@ Before starting my Master's program, I earned a Bachelor's degree in Applied Sta
 And I am currently a visiting student at Beijing Institute of Technology, being supervised by [Prof. Kun Qian](https://eecsqian.com/). we are exploring adversarial attack and defence strategies for a robustness body sound classification system. I am enthusiastic about the opportunity to continue learning and applying my knowledge in this exciting field. My CV is available [here](https://hyfred.github.io/files/CV.pdf).
 
 ## Internships
-- *Research Intern*, **Tencent AI Lab**, Sep 2020 - Sep 2021 \
-  Content: Content: literary Neural Machine Translation research (Domain, Alignment, Context) \
+- *Research Intern*, **Tencent AI Lab** \
+  Content: literary Neural Machine Translation research (Domain, Alignment, Context) \
   Supervisor: [Dr. Longyue Wang](http://www.longyuewang.com/)\
+  Duration: Sep 2020 - Sep 2021 (One year)\
   Location: Shenzhen
-- *AI Algorithm Engineer Intern*, **Beijing Genomics Institute (BGI)**, Sep 2019 - Jan 2020 \
+- *AI Algorithm Engineer Intern*, **Beijing Genomics Institute (BGI)** \
   Content: Explore AI Algorithm in Gene data and built the Clinical-NLP platform \
   Supervisor: [Dr. Daoling Huang](https://scholar.google.com/citations?user=4Y4DcQkAAAAJ&hl=en) \
+  Duration: Sep 2019 - Jan 2020 (Half year)\
   Location: Shenzhen
 
 ## My research interest
