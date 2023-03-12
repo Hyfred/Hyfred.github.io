@@ -1,6 +1,7 @@
 ---
-title: "A Social Platform for Chinese Oversea Student "
+title: "A Social Platform for Chinese Oversea Student (UU Circle) "
 collection: portfolio
+excerpt: "<img src='/images/uucircle_logo.png'>"
 ---
 
 Responsibility: Project Leader 
@@ -8,3 +9,5 @@ Responsibility: Project Leader
 - Investigated product-market fit (PMF) and carried out minimum viable product (MVP).
 - Built a brand around the user group.
 - Coordinated division of labour and cooperation between the different groups to build the product.
+
+<img src='/images/uucircle_logo.png'>
