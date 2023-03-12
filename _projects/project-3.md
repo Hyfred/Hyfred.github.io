@@ -10,4 +10,4 @@ Responsibility: Project Leader
 <img src='/images/NLP_medical.png'>
 <br />
 <br />
-<img src='/knowledge_graph_medical.png'>
+<img src='/images/knowledge_graph_medical.png'>

@@ -1,7 +1,6 @@
 ---
 title: "A Social Platform for Chinese Oversea Student (UU Circle) "
 collection: portfolio
-excerpt: "<img src='/images/uucircle_logo.png' height="50" width="100" />"
 ---
 
 Responsibility: Project Leader 
