@@ -5,16 +5,18 @@ permalink: /patents/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## [A  Method and Device for Automatic Alignment and Automatic Translation of Web Fiction](http://www.soopat.com/Patent/202010654127)
+Longyue Wang, <b>Hongye Liu</b>, Zhaopeng Tu, Shuming Shi \
+Mainland Patent: CN113822083A 
 
-{% include base_path %}
+## [A Method and Device of Large-scale Data Filtering for Machine Translation](http://www.soopat.com/Patent/202110553522)
+Longyue Wang, <b>Hongye Liu</b> \
+Mainland Patent: CN113761944A
 
-{% for post in site.patents reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+## [A Method and Device of Bilingual Data for Web Fiction Translation via Self-Traning](http://www.soopat.com/Patent/202011271673)
+Longyue Wang, <b>Hongye Liu</b> \
+Mainland Patent: CN112257472A & Hongkong Patent
 
-### [A Ray Defect Detection Method based on Mask R-CNN model](http://www.soopat.com/Patent/202010654127)
-Zhicong Lin, JinTai Zhang; <b>Hongye Liu</b>
-Chinese Patent: CN112017154A
+## [A Ray Defect Detection Method based on Mask R-CNN model](http://www.soopat.com/Patent/202010654127)
+Zhicong Lin, JinTai Zhang, <b>Hongye Liu</b> \
+Mainland Patent: CN112017154A
