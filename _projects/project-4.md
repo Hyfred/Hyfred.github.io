@@ -1,14 +1,13 @@
 ---
-title: "Drug Discovery With Graph Neural Networks "
+title: "A Social Platform for Chinese Oversea Student (UU Circle) "
 collection: portfolio
+excerpt: "<img src='/images/uucircle_logo.png' height="100" width="200" />"
 ---
 
-Responsibility: Algorithm & Software
-- Predict the water solubility and toxicity of a molecule with the Graph Neural Network.
-- Developed a front-end web with Streamlit. (Link: [https://icl-drug-discovery.herokuapp.com/](https://icl-drug-discovery.herokuapp.com/))
-- Built an automatic DevOps pipeline with Docker and GitLab CI/CD.
+Responsibility: Project Leader 
+- Established a team consisting of technology, design, and marketing group.
+- Investigated product-market fit (PMF) and carried out minimum viable product (MVP).
+- Built a brand around the user group.
+- Coordinated division of labour and cooperation between the different groups to build the product.
 
-<img src='/images/homescreen.png'>
-<br />
-<br />
-The paper is available [here](https://hyfred.github.io/files/MSC_AI_PROJECT_DRUG_GNN.pdf)
+<img src='/images/uucircle_logo.png'>

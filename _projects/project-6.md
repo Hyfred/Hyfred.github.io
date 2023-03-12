@@ -1,13 +1,11 @@
 ---
-title: "NLP-AI Medical"
+title: "Webnovel Translation"
 collection: portfolio
 ---
 
-Responsibility: Project Leader 
-- Designed a data pipeline based on electronic medical records to connect the upstream and downstream of the hospital.
-- Built word segmentation, NER, relationship extraction to knowledge graph and knowledge query algorithm pipeline.
+Responsibility: 
+- Extracted CH-EN Webnovel data and optimized corpus alignment algorithm for the omission.
+- Built domain corpus selections, back-translation and NMT model training pipeline.
+- Developed front-end web and launch the translation engine. (Link: [longyuewang.com/nmt](longyuewang.com/nmt))
 
-<img src='/images/NLP_medical.png'>
-<br />
-<br />
-<img src='/knowledge_graph_medical.png'>
+<img src='/images/wuxia_homepage.png'>

@@ -1,13 +1,13 @@
 ---
-title: "A Social Platform for Chinese Oversea Student (UU Circle) "
+title: "NLP-AI Medical"
 collection: portfolio
-excerpt: "<img src='/images/uucircle_logo.png'>"
 ---
 
 Responsibility: Project Leader 
-- Established a team consisting of technology, design, and marketing group.
-- Investigated product-market fit (PMF) and carried out minimum viable product (MVP).
-- Built a brand around the user group.
-- Coordinated division of labour and cooperation between the different groups to build the product.
+- Designed a data pipeline based on electronic medical records to connect the upstream and downstream of the hospital.
+- Built word segmentation, NER, relationship extraction to knowledge graph and knowledge query algorithm pipeline.
 
-<img src='/images/uucircle_logo.png'>
+<img src='/images/NLP_medical.png'>
+<br />
+<br />
+<img src='/knowledge_graph_medical.png'>
