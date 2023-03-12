@@ -16,9 +16,9 @@ Milestone:
 <img src='/images/uucircle_logo.png'>
 <br />
 <br />
+<img src='/images/uucircle_2.png'>
 You can search "全英UU圈" in Wechat to find our mini-program product! \
 Most of our user is from 'Imperial College London (ICL), Royal College of Art (RCA), University of Oxford, University of Cambridge, King's College London (KCL)'
-<img src='/images/uucircle_1.png >{: width="96" height="128" .float-right .mx-4} 
+<img src='/images/uucircle_1.png >
 <br />
 <br />
-<img src='/images/uucircle_2.png'>
