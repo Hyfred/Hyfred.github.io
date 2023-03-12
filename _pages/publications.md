@@ -9,8 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+## [A Benchmark for Zero Pronoun Recovery and Translation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WOv1apoAAAAJ&citation_for_view=WOv1apoAAAAJ:u-x6o8ySG0sC)
+Mingzhou Xu, Longyue Wang, Derek F. Wong, <b>Hongye Liu</b>, Linfeng Song, Lidia S. Chao, Shuming Shi, and Zhaopeng 
+Tu \
+**EMNLP2022**
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## [Intelligent Flaw Detection of X-ray Images Based on Deep Learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WOv1apoAAAAJ&citation_for_view=WOv1apoAAAAJ:d1gkVwhDpl0C)
+Yang Shen, <b>Hongye Liu</b>, Jintai Zhang, Zhicong Lin, Liting Wu, Wei Ying, Ruinan Zhong, Yong You, Ling Chen \
+**Springer Science and Business Media B.V., 2021), vol. 105, pp. 558–566**

@@ -5,7 +5,7 @@ permalink: /patents/
 author_profile: true
 ---
 
-## [A  Method and Device for Automatic Alignment and Automatic Translation of Web Fiction](http://www.soopat.com/Patent/202110734204)
+## [A Method and Device for Automatic Alignment and Automatic Translation of Web Fiction](http://www.soopat.com/Patent/202110734204)
 Longyue Wang, <b>Hongye Liu</b>, Zhaopeng Tu, Shuming Shi \
 Mainland Patent: CN113822083A 
 

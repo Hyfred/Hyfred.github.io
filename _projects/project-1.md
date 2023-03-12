@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
+title: "Application of GAN in Seismic Image Recognition of Salt Mine"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Responsibility: Project Leader 
+- Implemented image segmentation using the GAN model with Pytorch to recognize salt mine seismic images.
+- Won the national second prize and presented an academic report at Sun Yat-sen University.
