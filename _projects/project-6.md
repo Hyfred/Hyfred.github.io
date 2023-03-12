@@ -1,5 +1,5 @@
 ---
-title: "Webnovel Translation"
+title: "WebNovel Machine Translation"
 collection: portfolio
 ---
 
