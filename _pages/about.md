@@ -16,7 +16,7 @@ And I am currently a visiting student at Beijing Institute of Technology, being 
 
 ## Internships
 - *Research Intern*, **Tencent AI Lab** \
-  Content: literary Neural Machine Translation research (Domain, Alignment, Context) \
+  Content: Literary Neural Machine Translation research (Domain, Alignment, Context) \
   Supervisor: [Dr. Longyue Wang](http://www.longyuewang.com/)\
   Duration: Sep 2020 - Sep 2021 (One year)\
   Location: Shenzhen
@@ -29,6 +29,7 @@ And I am currently a visiting student at Beijing Institute of Technology, being 
 ## My research interest
 *  Natural Language Processing
 *  Affective Computing
+*  Siginal Processing
 *  Digital Health
 
 ## Selected Publications
