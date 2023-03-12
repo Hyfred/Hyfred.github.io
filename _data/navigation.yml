@@ -19,7 +19,7 @@ main:
     url: /patents/
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blogs/
     
   # - title: "CV"
   #   url: /cv/
