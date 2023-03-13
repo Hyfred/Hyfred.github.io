@@ -3,7 +3,7 @@ title: "Clinical-NLP Platform"
 collection: portfolio
 ---
 
-Responsibility: Project Leader 
+Responsibility: Algorithm Engineer
 - Designed a data pipeline based on electronic medical records from hospital system.
 - Built word segmentation, NER, relationship extraction to knowledge graph and knowledge query algorithm pipeline.
 
