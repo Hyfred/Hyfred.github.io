@@ -16,7 +16,7 @@ And I am currently a visiting student at Beijing Institute of Technology, being 
 
 ## Internships
 - *Research Intern*, **Tencent AI Lab** \
-  Content: Literary Neural Machine Translation research (Domain, Alignment, Context) \
+  Content: Literary Neural Machine Translation (Domain, Alignment, Context) \
   Supervisor: [Dr. Longyue Wang](http://www.longyuewang.com/)\
   Duration: Sep 2020 - Sep 2021 (One year)\
   Location: Shenzhen
@@ -33,7 +33,7 @@ And I am currently a visiting student at Beijing Institute of Technology, being 
 *  Digital Health
 
 ## Selected Publications
-Mingzhou Xu, Longyue Wang, Derek F. Wong, Hongye Liu, Linfeng Song, Lidia S. Chao, Shuming Shi, and Zhaopeng 
+Longyue Wang, Mingzhou Xu, Derek F. Wong, Hongye Liu, Linfeng Song, Lidia S. Chao, Shuming Shi, and Zhaopeng 
 Tu. A Benchmark for Zero Pronoun Recovery and Translation. EMNLP 2022.
 
 Y. Shen, Hongye Liu et al., Intelligent Flaw Detection of X-ray Images Based on Deep Learning. (Springer Science and Business Media B.V., 2021), vol. 105, pp. 558–566.

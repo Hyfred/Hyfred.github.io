@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 ## [A Benchmark for Zero Pronoun Recovery and Translation](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=WOv1apoAAAAJ&citation_for_view=WOv1apoAAAAJ:u-x6o8ySG0sC)
-Mingzhou Xu, Longyue Wang, Derek F. Wong, <b>Hongye Liu</b>, Linfeng Song, Lidia S. Chao, Shuming Shi, and Zhaopeng 
+Longyue Wang, Mingzhou Xu, Derek F. Wong, <b>Hongye Liu</b>, Linfeng Song, Lidia S. Chao, Shuming Shi, and Zhaopeng 
 Tu \
 <i>EMNLP 2022</i>
 
