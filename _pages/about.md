@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hongye Liu (刘宏烨)"
+title: "Hongye Liu"
 excerpt: "Hongye Liu"
 author_profile: true
 redirect_from: 
