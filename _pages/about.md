@@ -12,7 +12,8 @@ I am a master's student in Artificial Intelligence at Imperial College London, w
 
 Before starting my Master’s program, I earned a Bachelor’s degree in Applied Statistics from Beijing Institute of Technology Zhuhai. This program provided me with a strong foundation in the fundamental principles of statistics, which has been invaluable in my current studies.
 
-And I am currently a visiting student at Beijing Institute of Technology, being supervised by [Prof. Kun Qian](https://eecsqian.com/). We are exploring adversarial attack and defence strategies for a robustness body sound classification system. I am enthusiastic about the opportunity to continue learning and applying my knowledge in this exciting field. My CV is available [here](https://hyfred.github.io/files/CV.pdf).
+And I am currently a visiting student at Beijing Institute of Technology, exploring adversarial attack and defence strategies for a robustness body sound classification system. I am enthusiastic about the opportunity to continue learning and applying my knowledge in this exciting field. 
+
 
 ## Internships
 - *Research Intern*, **Tencent AI Lab** \
