@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student in Artificial Intelligence at Imperial College London, where I am fortunate to be supervised by the esteemed [Prof. Bjoern Schuller](http://www.schuller.one/). Our research focuses on Multi-modal Learning (speech and visual) to improve Emotion Recognition tasks.
+I am currently pursuing my PhD at KAUST, under the guidance of the esteemed [Prof. Ricardo Henao](http://rhenaog.github.io/). Prior to this, I completed my Master's degree in Artificial Intelligence from Imperial College London, mentored by the renowned [Prof. Bjoern Schuller](http://www.schuller.one/). Our research primarily revolves around multimodal learning techniques, specifically speech and vision, to enhance emotion recognition tasks. My Bachelor’s degree in Applied Statistics from Beijing Institute of Technology Zhuhai instilled in me a strong grasp of the fundamental principles of statistics.
 
-Before starting my Master’s program, I earned a Bachelor’s degree in Applied Statistics from Beijing Institute of Technology Zhuhai. This program provided me with a strong foundation in the fundamental principles of statistics, which has been invaluable in my current studies.
 
-And I am currently a visiting student at Beijing Institute of Technology, exploring adversarial attack and defence strategies for a robustness body sound classification system. I am enthusiastic about the opportunity to continue learning and applying my knowledge in this exciting field. 
+## Visting
+
+- Beijing Institute of Technology
+  Content: Adversarial attack and defence strategies for a robustness body sound classification system \
+  Duration: Jan 2023 - Mar 2023 
 
 
 ## Internships
@@ -30,7 +33,7 @@ And I am currently a visiting student at Beijing Institute of Technology, explor
 ## My research interest
 *  Natural Language Processing
 *  Affective Computing
-*  Siginal Processing
+*  Multimodal AI
 *  Digital Health
 
 ## Selected Publications
