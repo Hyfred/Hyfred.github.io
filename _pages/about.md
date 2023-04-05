@@ -13,7 +13,7 @@ I am currently pursuing my PhD at KAUST, under the guidance of the esteemed [Pro
 
 ## Visting
 
-- Beijing Institute of Technology
+- Beijing Institute of Technology \
   Content: Adversarial attack and defence strategies for a robustness body sound classification system \
   Duration: Jan 2023 - Mar 2023 
 
