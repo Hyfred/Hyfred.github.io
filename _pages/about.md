@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD at KAUST, under the guidance of the esteemed [Prof. Ricardo Henao](http://rhenaog.github.io/). Prior to this, I completed my Master's degree in Artificial Intelligence from Imperial College London, mentored by the renowned [Prof. Bjoern Schuller](http://www.schuller.one/). Our research primarily revolves around multimodal learning techniques, specifically speech and vision, to enhance emotion recognition tasks. My Bachelor’s degree in Applied Statistics from Beijing Institute of Technology Zhuhai instilled in me a strong grasp of the fundamental principles of statistics.
+I will soon be pursuing my PhD at KAUST, under the guidance of the esteemed [Prof. Ricardo Henao](http://rhenaog.github.io/). Prior to this, I completed my Master's degree in Artificial Intelligence from Imperial College London, mentored by the renowned [Prof. Bjoern Schuller](http://www.schuller.one/). Our research primarily revolves around multimodal learning techniques, specifically speech and vision, to enhance emotion recognition tasks. My Bachelor’s degree in Applied Statistics from Beijing Institute of Technology Zhuhai instilled in me a strong grasp of the fundamental principles of statistics.
 
 
 ## Visting
