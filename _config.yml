@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "'s"
 name                     : &name "Hyliu"
-description              : &description "MSc Student at Imperial College London"
+description              : &description "PhD Student at Kaust"
 url                      : https://Hyfred.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hyfred.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hongye Liu"
   avatar           : "profile.png"
-  bio              : "MSc Student at Imperial College London, majoring in AI and Machine Learning"
-  location         : "Imperial College London"
+  bio              : "PhD Student at Kaust, majoring in AI and Machine Learning"
+  location         : "Kaust"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WOv1apoAAAAJ&hl=zh-CN"
