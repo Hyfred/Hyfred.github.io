@@ -19,7 +19,7 @@ I will soon be pursuing my PhD at KAUST, under the guidance of the esteemed [Pro
 
 
 ## Internships
-- *Research Intern*, **Tencent AI Lab** \
+- *Research and Engineer Intern*, **Tencent AI Lab** \
   Content: Literary Neural Machine Translation (Domain, Alignment, Context) \
   Supervisor: [Dr. Longyue Wang](http://www.longyuewang.com/) and [Dr. Zhaopeng Tu](http://www.zptu.net)\
   Duration: Sep 2020 - Sep 2021 (One year)\
